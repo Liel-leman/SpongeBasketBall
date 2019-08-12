@@ -80,6 +80,7 @@ the gameover screen:
 ![SpongeBasketBall gameover](https://live.staticflickr.com/65535/48519865582_3f0e6805b1_m.jpg)
 
 when the game ends : either win or lose you will prompt to highScore Screen:
+
 ![SpongeBasketBall highscore](https://live.staticflickr.com/65535/48519865532_975834b351_m.jpg)
 
 
